@@ -41,7 +41,7 @@
 		025D0153163C862400065E50 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		025D0155163C862400065E50 /* Hide-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hide-Prefix.pch"; sourceTree = "<group>"; };
 		025D0157163C862400065E50 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		025D0159163C862400065E50 /* Document.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Document.h; sourceTree = "<group>"; };
+		025D0159163C862400065E50 /* Document.h */ = {isa = PBXFileReference; explicitFileType = text.script.php; name = Document.h; path = ../../../../Users/ajurso1/Desktop/Hide/Hide/Document.h; sourceTree = DEVELOPER_DIR; };
 		025D015A163C862400065E50 /* Document.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Document.m; sourceTree = "<group>"; };
 		025D015D163C862400065E50 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/Document.xib; sourceTree = "<group>"; };
 		025D0160163C862400065E50 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
@@ -458,6 +458,7 @@
 				025D017A163C862500065E50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		025D017B163C862500065E50 /* Build configuration list for PBXNativeTarget "HideTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +467,7 @@
 				025D017D163C862500065E50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
